@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.motivation{
+    min-height: 400px;
+    background-image: url('https://media.istockphoto.com/id/1343525434/photo/operations-management-involving-business-process-and-workflow-problem-solving-high-perfomance.jpg?s=1024x1024&w=is&k=20&c=yDGUbTvMhQZh0UZ_6OHjiVAgkwoKCvpcRRohof-k5dc=');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    animation: fadeIn 2s ease-in-out;
+}
+
+main{
+    background-color: #AEBBE7;
+}
+
+.signup{
+    text-decoration: none;
+    color: white;
+}
+
+.getstarted{
+
+    margin-left: 100px;
+    border: none;
+    padding: 5px;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: rgb(0, 86, 183);
+    display: flex;
+    
+}
+
+.getstarted:hover{
+    transform: scale(1,1);
+
+}
+
+.quote{
+    margin-top: 30px;
+    margin-left: 100px;
+    color: rgb(0, 86, 183);
+}
+.quote1{
+
+    margin-left: 100px;
+    color: rgb(0, 86, 183);
+}
+
+.signup{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+footer{
+    background-color: #6A7D8E;
+    margin-bottom:0px ;
+}
+
+
+
+.hello{
+    /* display: flex;
+    position: sticky;
+    top:0; */
+    background-color: #AEBBE7;   
+
+    
+}
+#nav{
+    width: 100%;
+    background-color: #AEBBE7;
+}
+
+.icon{
+    margin: 5px;
+}
