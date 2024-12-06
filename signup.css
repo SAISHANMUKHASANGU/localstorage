@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.signup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 200px;
+}
+
+.submit{
+    width: 30%;
+    border-radius: 5px;
+}
+
+body{
+    background-color: #AEBBE7;
+}
+
+.form{
+    display: flex;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 5px;
+}
+.elements{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+footer{
+    background-color: #6A7D8E;
+    margin-bottom:0px ;
+}
